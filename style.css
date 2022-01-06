@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin-left: 100px;
+    
 }
 .vertical-line{
     border-left: 4px solid tomato;
@@ -79,4 +80,43 @@ section{
 }
 #bg-color-3{
     background-color: blanchedalmond;
+}
+.second-section{
+    width: 50%;
+}
+.second-section img{
+    width: 80%;
+}
+.develop{
+    margin-top: 150px;
+    display: flex;
+    margin-left: 120px;
+}
+.third-container{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    position: absolute;
+    margin-bottom: 150px;
+}
+.fourth-container{
+    margin-top: 600px;
+}
+
+#fix-size{
+    margin-left: 0%;
+}
+#hight-fix{
+    margin-top: 100px;
+}
+#build{
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding:10px;
 }
