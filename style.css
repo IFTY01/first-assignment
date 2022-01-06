@@ -100,6 +100,9 @@ section{
     position: absolute;
     margin-bottom: 150px;
 }
+#fix-margin{
+    margin-left: 0px;
+}
 .fourth-container{
     margin-top: 600px;
 }
