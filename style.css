@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin-left: 100px;
+    
     
 }
 .vertical-line{
@@ -17,6 +17,7 @@ h1{
 }
 section{
     display: flex;
+    margin-left: 100px;
 }
 .first-section{
     width: 50%;
